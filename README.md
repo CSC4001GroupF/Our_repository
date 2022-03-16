@@ -1,12 +1,14 @@
-# Our_repository
-    Our project is a web game, using a unique form of Chinese language, combined with an interesting storyline and a battle mode. 
+# Word Game：Character
+
+    It is a web game, using a unique form of Chinese language, combined with an interesting storyline and a battle mode. 
 
     We hope that this game can bring players a novel game experience and make them feel the charm of Chinese characters, 
     so that they are more willing to study Chinese character and culture.
 
     Our game will be developed with the help of Godot Engine. 
     The system can be roughly divided into two parts, 
-    the frontend part with a friendly user interface which players can use and interact with the interface, and the backend part, where is the management of the database and many  playing systems. 
+    the frontend part with a friendly user interface which players can use and interact with the interface, 
+    and the backend part, where is the management of the database and many  playing systems. 
     Our goal is to provide a game with a clear player guide and kindly game experience. 
 
 
