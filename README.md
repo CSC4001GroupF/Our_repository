@@ -19,4 +19,3 @@
     interact with the environment, battle against NPCs, and more. 
     Game manager (GM) can complete the modification of the player's account and character information, 
     also can modify the game progress. 
-    More details of these features will be included in later sections.
